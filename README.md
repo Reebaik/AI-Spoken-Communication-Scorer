@@ -25,7 +25,7 @@ This guide assumes you have Python 3.8+ installed and are running the commands f
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPO_URL]
+    git git clone https://github.com/Reebaik/AI-Spoken-Communication-Scorer.git
     cd AI-Communication-Scorer
     ```
 
@@ -56,9 +56,9 @@ Run the Uvicorn server:
 ```bash
 uvicorn main:app --reload --host 127.0.0.1 --port 8000
 
-Access the Frontend
-Leave the Uvicorn server running.
+3.Access the Frontend
+   Leave the Uvicorn server running.
 
-Open the index.html file in your web browser.
-
-Paste a transcript and enter a Duration (e.g., 65 seconds) into the input fields, then click Get Score.
+   Open the index.html file in your web browser.
+   
+   Paste a transcript and enter a Duration (e.g., 65 seconds) into the input fields, then click Get Score.
