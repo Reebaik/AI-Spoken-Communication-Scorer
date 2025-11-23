@@ -25,7 +25,7 @@ This guide assumes you have Python 3.8+ installed and are running the commands f
 
 1.  **Clone the Repository:**
     ```bash
-    git git clone https://github.com/Reebaik/AI-Spoken-Communication-Scorer.git
+    git clone https://github.com/Reebaik/AI-Spoken-Communication-Scorer.git
     cd AI-Communication-Scorer
     ```
 
